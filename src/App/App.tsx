@@ -4,7 +4,7 @@
 function App() {
     return (
         <div>
-            <h1>App</h1>
+            <h1>Hola mundo desde react</h1>
         </div>
     )
 }
